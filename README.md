@@ -5,7 +5,7 @@ Solidariu's App
 ## Configuração
 
 - Para ter acesso a API, por favor, entrar em contato pelo e-mail "solidariusapp@outlook.com" solicitando o acesso
-- Acesse o arquivo `.base.service.dart` e substitua o "###########"}); pela credenciais enviada pelo administrador do sistema
+- Acesse o arquivo `.base.service.dart` e substitua o "###########"; pela credenciais enviada pelo administrador do sistema
 - Para ter acesso ao mapa do aplicativo, renomeie o arquivo `.env.example` para `.env`
 - Substitua as credenciais no `.env` pelas [chaves de API do Google Maps](https://console.cloud.google.com/google/maps-apis/credentials)
 
@@ -14,8 +14,16 @@ Solidariu's App
 - Execute o projeto no Android (versão 10 API level 29 ou superior)
 - Recomenda-se utilizar o app em telas 6.3" ou superior com densidade de tela 392dpi ou superior (testado até 460dpi)
 
+## Capturas de tela
+
+<div align=center>
+  <img width="250em" src="https://user-images.githubusercontent.com/44588590/201185221-dfafb2e9-e5cd-4e0e-ae8f-a49edcb2b2b9.jpg"/>
+  <img width="250em" src="https://user-images.githubusercontent.com/44588590/201185224-108af144-bf8f-488f-883a-57c1bcb46b9d.jpg"/>
+  <img width="250em" src="https://user-images.githubusercontent.com/44588590/201185225-4f8324cc-4356-413a-a06c-76e952dcc4dc.jpg"/>
+</div>
+
 <div>
-  <h1>Paleta de Cores</h1>
+  <h2>Paleta de Cores</h2>
   
   <p><b>ROXO</b></p>
   <p>#A020F0 (primary)</p>
@@ -33,7 +41,7 @@ Solidariu's App
 
 <div>
   
-  <h1>Terminal</h1>
+  <h2>Terminal</h2>
   <p>No terminal, execute os seguintes comandos para visualizar a:</p>
   
   <h3>Versão do Flutter e Dart</h3>
